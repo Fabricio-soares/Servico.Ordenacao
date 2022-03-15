@@ -1,6 +1,6 @@
 # Servico.Ordenacao
 Serviço para ordenação dinâmica
-O serviço se propõe a ordenar uma quantidade de livros de forma dinâmica, sendo essa ordenação por uma ou mais de uma propriedade.
+O serviço se propõe a ordenar uma quantidade de livros de forma dinâmica, sendo essa ordenação por uma ou mais propriedade.
 Para a realização desse processo foi criado um console Application com as seguintes camadas :
  1 - Camada de execução. 
     1.1 - Responsável por executar o projeto com as primeiras regras propostas.
