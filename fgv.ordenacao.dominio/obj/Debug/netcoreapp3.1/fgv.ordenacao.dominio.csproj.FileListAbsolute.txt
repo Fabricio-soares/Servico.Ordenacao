@@ -1,0 +1,10 @@
+C:\GIT\fgv.ordenacao\fgv.ordenacao.dominio\bin\Debug\netcoreapp3.1\fgv.ordenacao.dominio.deps.json
+C:\GIT\fgv.ordenacao\fgv.ordenacao.dominio\bin\Debug\netcoreapp3.1\fgv.ordenacao.dominio.dll
+C:\GIT\fgv.ordenacao\fgv.ordenacao.dominio\bin\Debug\netcoreapp3.1\fgv.ordenacao.dominio.pdb
+C:\GIT\fgv.ordenacao\fgv.ordenacao.dominio\obj\Debug\netcoreapp3.1\fgv.ordenacao.dominio.csproj.AssemblyReference.cache
+C:\GIT\fgv.ordenacao\fgv.ordenacao.dominio\obj\Debug\netcoreapp3.1\fgv.ordenacao.dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\fgv.ordenacao\fgv.ordenacao.dominio\obj\Debug\netcoreapp3.1\fgv.ordenacao.dominio.AssemblyInfoInputs.cache
+C:\GIT\fgv.ordenacao\fgv.ordenacao.dominio\obj\Debug\netcoreapp3.1\fgv.ordenacao.dominio.AssemblyInfo.cs
+C:\GIT\fgv.ordenacao\fgv.ordenacao.dominio\obj\Debug\netcoreapp3.1\fgv.ordenacao.dominio.csproj.CoreCompileInputs.cache
+C:\GIT\fgv.ordenacao\fgv.ordenacao.dominio\obj\Debug\netcoreapp3.1\fgv.ordenacao.dominio.dll
+C:\GIT\fgv.ordenacao\fgv.ordenacao.dominio\obj\Debug\netcoreapp3.1\fgv.ordenacao.dominio.pdb
