@@ -11,3 +11,16 @@ C:\GIT\fgv.ordenacao\fgv.ordenacao.ioc\obj\Debug\netcoreapp3.1\fgv.ordenacao.ioc
 C:\GIT\fgv.ordenacao\fgv.ordenacao.ioc\obj\Debug\netcoreapp3.1\fgv.ordenacao.ioc.csproj.CopyComplete
 C:\GIT\fgv.ordenacao\fgv.ordenacao.ioc\obj\Debug\netcoreapp3.1\fgv.ordenacao.ioc.dll
 C:\GIT\fgv.ordenacao\fgv.ordenacao.ioc\obj\Debug\netcoreapp3.1\fgv.ordenacao.ioc.pdb
+C:\GIT\fgv.ordenacao\Servico.Ordenacao\fgv.ordenacao.ioc\bin\Debug\netcoreapp3.1\fgv.ordenacao.ioc.deps.json
+C:\GIT\fgv.ordenacao\Servico.Ordenacao\fgv.ordenacao.ioc\bin\Debug\netcoreapp3.1\fgv.ordenacao.ioc.dll
+C:\GIT\fgv.ordenacao\Servico.Ordenacao\fgv.ordenacao.ioc\bin\Debug\netcoreapp3.1\fgv.ordenacao.ioc.pdb
+C:\GIT\fgv.ordenacao\Servico.Ordenacao\fgv.ordenacao.ioc\bin\Debug\netcoreapp3.1\fgv.ordenacao.dominio.dll
+C:\GIT\fgv.ordenacao\Servico.Ordenacao\fgv.ordenacao.ioc\bin\Debug\netcoreapp3.1\fgv.ordenacao.dominio.pdb
+C:\GIT\fgv.ordenacao\Servico.Ordenacao\fgv.ordenacao.ioc\obj\Debug\netcoreapp3.1\fgv.ordenacao.ioc.csproj.AssemblyReference.cache
+C:\GIT\fgv.ordenacao\Servico.Ordenacao\fgv.ordenacao.ioc\obj\Debug\netcoreapp3.1\fgv.ordenacao.ioc.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\fgv.ordenacao\Servico.Ordenacao\fgv.ordenacao.ioc\obj\Debug\netcoreapp3.1\fgv.ordenacao.ioc.AssemblyInfoInputs.cache
+C:\GIT\fgv.ordenacao\Servico.Ordenacao\fgv.ordenacao.ioc\obj\Debug\netcoreapp3.1\fgv.ordenacao.ioc.AssemblyInfo.cs
+C:\GIT\fgv.ordenacao\Servico.Ordenacao\fgv.ordenacao.ioc\obj\Debug\netcoreapp3.1\fgv.ordenacao.ioc.csproj.CoreCompileInputs.cache
+C:\GIT\fgv.ordenacao\Servico.Ordenacao\fgv.ordenacao.ioc\obj\Debug\netcoreapp3.1\fgv.ordenacao.ioc.csproj.CopyComplete
+C:\GIT\fgv.ordenacao\Servico.Ordenacao\fgv.ordenacao.ioc\obj\Debug\netcoreapp3.1\fgv.ordenacao.ioc.dll
+C:\GIT\fgv.ordenacao\Servico.Ordenacao\fgv.ordenacao.ioc\obj\Debug\netcoreapp3.1\fgv.ordenacao.ioc.pdb
